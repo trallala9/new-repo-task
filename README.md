@@ -3,6 +3,11 @@
 #how to solve SSH error :
 https://www.youtube.com/watch?v=I03YCDBoCrU
 
+#How to deploy Your app on Heroku :
+https://www.youtube.com/watch?v=MxfxiR8TVNU
+
+#Link to my app:
+https://new-omdb.herokuapp.com
 
 # Movie-Search-Engine-using-OMDb-API-in-Node-js
 A simple movie search engine web app using OMDb API in Node js
@@ -12,5 +17,3 @@ A simple movie search engine web app using OMDb API in Node js
 2. Replace 'YOUR_API_KEY' in app.js file line no 12 with the API key you received in your email.
 3. Now run `npm start` from command line/terminal.
 
-4. How to deploy Your app on Heroku :
-https://www.youtube.com/watch?v=MxfxiR8TVNU
